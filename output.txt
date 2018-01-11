@@ -5,13 +5,14 @@
 "Bad things gone, say good people" - 170098 views
 
 
-2.Top three authors are:
+2.Top authors are:
 
 Ursula La Multa - 507594 views
 Rudolf von Treppenwitz - 423457 views
 Anonymous Contributor - 170098 views
+Markoff Chaney - 84557 views
 
 
 3.Days with more than 1% of requests lead to errors are:
 
-2016-07-17 - 2.2626862468027260% errors
+July 17, 2016 - 2.26%
